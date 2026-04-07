@@ -1,0 +1,11 @@
+create a folder client and server
+
+/*server*/
+npm init -y to package.json
+install express cors dotenv  cookie parser  mongoose nodemon jsonweb token 
+
+/*client*/
+install react+vite to = npm create @vitelatest 
+and imports tailwind css to all designing
+npm install motion to create motions
+npm install firebase
