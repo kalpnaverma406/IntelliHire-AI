@@ -22,7 +22,7 @@ import confidenceImg from "../assets/confi.png";
 import creditImg from "../assets/credit.png";
 import resumeImg from "../assets/resume.png";
 import pdfImg from "../assets/pdf.png";
-import analyticsImg from "../assets/history.png";
+import analyticsImg from "../assets/History.png";
 
  function Home () {
   const{userData}= useSelector((state)=>state.user)
