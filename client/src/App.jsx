@@ -11,7 +11,7 @@ import InterviewPage from "./pages/InterviewPage";
 import InterviewHistory from "./pages/InterviewHistory";
 
 
-export  const ServerUrl ="http://localhost:8000"
+export  const ServerUrl ="https://intellihire-ai-pa5t.onrender.com"
 function App() {
 
   const dispatch=useDispatch()
